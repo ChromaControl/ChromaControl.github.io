@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "ChromaControl.Common.Assets.dll": "sha256-wtConemYeAvDi2bcgvjJnj\/Hx2ycBbw2MqjcrySwAv4=",
-      "ChromaControl.Website.dll": "sha256-z54hERErtQoe3YNq0gc8R6WHPoR9jpSfYWKA6K\/2fSI=",
+      "ChromaControl.Common.Assets.dll": "sha256-bXucobMJ7i5KcY3gGfXFlpFNO1+cgEpf2UgCKN2Nxnc=",
+      "ChromaControl.Website.dll": "sha256-Owzk2IaArpMVwHgX9ADBCSmdxUK2SevhAyt6Clq0j8g=",
       "Microsoft.AspNetCore.Components.dll": "sha256-v2ct3+y2vbUgapd5OXF+sup\/KBxyqyvWTEJxcX+qxwE=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-eRAY7sPjrhuPAQ+VXOaLHlkrYfwHT\/KLZOE5ng1VpIg=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-IiCeDD2\/cESvpd281cmPUvaLlj5RlX\/Gy2c0FzTfcec=",
